@@ -1,0 +1,25 @@
+{
+  "name": "yunzhou-cli",
+  "version": "1.0.0",
+  "description": "神奇的cli",
+  "main": "index.js",
+  "bin": {
+    "yunzhou-cli": "bin/command.js"
+  },
+  "scripts": {
+    "test": "bin/command.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai1254473705/yunzhou-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dai1254473705/yunzhou-cli/issues"
+  },
+  "homepage": "https://github.com/dai1254473705/yunzhou-cli#readme",
+  "dependencies": {
+    "commander": "^9.5.0"
+  }
+}
